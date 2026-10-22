@@ -6,3 +6,4 @@
 
 - 电脑：在 Anki 中选择“文件 → 导入”，打开下载的 `.apkg` 文件。
 - iPhone／iPad：用 AnkiMobile 打开 `.apkg` 文件，或先在电脑导入，再同步到手机。
+- Android：使用 AnkiDroid 打开下载的 `.apkg` 文件导入，或先在电脑导入，再同步到手机。
